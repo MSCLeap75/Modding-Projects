@@ -1,2 +1,2 @@
-add mod.ini
 add SmoothBoostBlur.dll
+add mod.ini
