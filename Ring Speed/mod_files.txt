@@ -1,5 +1,6 @@
 add RingSpeed.dll
 add mod.ini
 add Fonts/DroidSans.ttf
+add Fonts/DroidSansJapanese.ttf
 add GenerationsParameterEditor.ini
 add ImGui.ini
