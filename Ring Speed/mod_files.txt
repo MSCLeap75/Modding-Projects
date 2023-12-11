@@ -1,2 +1,5 @@
 add RingSpeed.dll
 add mod.ini
+add Fonts
+add GenerationsParameterEditor.ini
+add ImGui.ini
