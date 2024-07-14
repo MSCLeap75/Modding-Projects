@@ -1,4 +1,6 @@
 add ModernSpinDash.dll
 add Sonic.ar.00
 add Sonic.ar.01
+add #cmn200.ar.00
+add #cmn200.arl
 add mod.ini
